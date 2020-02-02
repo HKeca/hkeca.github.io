@@ -1,7 +1,6 @@
 # Site settings
 title:          Hunter Keca
 description:    "A new developer"
-baseurl:        "/"
 url:            "https://hkeca.github.io"
 
 # Google Analytics
